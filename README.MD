@@ -5,7 +5,7 @@
 1. PASO: Crear mi entorno virtual
    `python -m venv env `
 
-2. PASO 2: Activar el entorno virtual ejecutando;
+2. PASO: Activar el entorno virtual ejecutando;
    `. env/Scripts/activate`
 
 # Instalar estos Paquetes necesarios
